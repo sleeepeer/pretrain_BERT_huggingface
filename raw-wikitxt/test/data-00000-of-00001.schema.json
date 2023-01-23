@@ -1,0 +1,12 @@
+{
+  "fields": [
+    {
+      "name": "text",
+      "type": {},
+      "nullable": true,
+      "metadata": {}
+    }
+  ],
+  "metadata": {},
+  "dictionaries": {}
+}
